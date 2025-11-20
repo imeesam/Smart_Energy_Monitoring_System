@@ -112,7 +112,7 @@ A MySQL table named `data`:
 | Power_W   | FLOAT   | Power (W)       |
 
 
-<img src="templates/CALLMEBOT.PNG" alt="Description" width="400" height="300">
+<img src="templates/DATABASE.PNG" alt="Description" width="400" height="300">
 
 This makes the data **ready for ML training**, such as:
 
@@ -197,15 +197,6 @@ Updated every second using AJAX.
 
 ---
 
-### **Flask Server**
-
-```bash
-pip install flask mysql-connector-python
-python app.py
-```
-
----
-
 ## 🌱 **Machine Learning Usage**
 
 Since MySQL stores a continuous time-series dataset:
@@ -225,8 +216,6 @@ You can build ML models for:
 * Add energy billing estimation
 * Train ML model and integrate into Flask
 * Add device control (turn off load automatically)
-* Add MQTT support
-* Deploy dashboard to cloud
 
 ---
 

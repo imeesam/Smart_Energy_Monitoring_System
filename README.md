@@ -112,7 +112,7 @@ A MySQL table named `data`:
 | Power_W   | FLOAT   | Power (W)       |
 
 
-<img src="templates/DATABASE.PNG" alt="Description" width="400" height="300">
+<img src="templates/CALLMEBOT.PNG" alt="Description" width="400" height="300">
 
 This makes the data **ready for ML training**, such as:
 
